@@ -1,4 +1,2 @@
-*a
-
 adfadf fad
 ahel
